@@ -16,7 +16,7 @@ main {
   display: flex;
   align-items: center;
   flex-direction: column;
-  margin: 2vw;
+  margin: 4vw;
   height: 80vw;
 }
 
@@ -160,7 +160,14 @@ button {
 header {
   height: 6vw;
   display: flex;
-  align-items: center;
+  flex-direction: column;
+}
+
+.dateTime {
+  position: fixed;
+  width: 92vw;
+  background-color: #fff;
+  text-align: right;
 }
 
 footer {

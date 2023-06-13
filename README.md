@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>📚 Awesome Books 📚</b></h3>
+  <h3><b>📚 Awesome Books modules 📚</b></h3>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 # 📖 Awesome Books <a name="about-project"></a>
 
-> This project is about building a basic website that allows users to add/remove books from a list.
+> This project is about building a basic website that allows users to add/remove books from a list build with modules.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -65,7 +65,18 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: have 'npm' package manger 
+In order to run this project you need: 
+
+✔ Git installed in your machine.
+✔ Sign in or sign up to your Github account.
+✔ A professional editer such as VS Code.
+✔ An Updated web browser such as Google Chrome, you can download it from here.
+✔ Node.js installed in your machine.
+✔ Lighthouse.
+✔ Webhint
+npm init -y
+npm install --save-dev hint@7.x
+npx hint .
 
 ### Setup
 
@@ -101,12 +112,6 @@ To run the project, execute the following command: open index.html as normal fil
 - GitHub: [EvansSnave](https://github.com/EvansSnave)
 - Twitter: [Kroja13](https://twitter.com/Kroja13)
 - LinkedIn: [Kevin Cruz](https://www.linkedin.com/in/kevin-cruz-25159a201/)
-
-👤 **Rudi Carrillo**
-
-- GitHub: [Rudi Carrillo](https://github.com/rudicarrilloypr)
-- Twitter: [Argo](https://twitter.com/onlyargo)
-- LinkedIn: [Rudi Carrillo](https://www.linkedin.com/in/rudi-carrillo/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

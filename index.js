@@ -1,7 +1,6 @@
 // eslint-disable-next-line max-classes-per-file
 import BookCollection from './modules/bookCollection.js';
-
-
+import { currentDate } from './modules/date.js';
 
 const myBookCollection = new BookCollection();
 
@@ -35,3 +34,5 @@ navLinks.forEach((link) => {
     link.classList.add('active');
   }
 });
+
+currentDate();
