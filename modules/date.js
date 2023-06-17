@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-import { DateTime } from '../node_modules/luxon/src/luxon.js';
+import { DateTime } from './luxon.js';
 
 export const currentDate = () => {
   const currentTime = DateTime.now().toLocaleString(DateTime.DATETIME_FULL);
