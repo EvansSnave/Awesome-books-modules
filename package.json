@@ -12,13 +12,15 @@
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
+    "eslint-auto-fix": "^1.0.4",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.27.5",
     "hint": "^7.1.9",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
-    "stylelint-scss": "^3.21.0"
+    "stylelint-scss": "^3.21.0",
+    "webpack": "^5.86.0"
   },
   "dependencies": {
     "abab": "^2.0.6",
@@ -338,6 +340,7 @@
     "longest-streak": "^2.0.4",
     "lowercase-keys": "^2.0.0",
     "lru-cache": "^7.18.3",
+    "luxon": "^3.3.0",
     "make-dir": "^3.1.0",
     "make-fetch-happen": "^11.1.1",
     "map-age-cleaner": "^0.1.3",
@@ -586,6 +589,7 @@
     "vfile": "^4.2.1",
     "vfile-message": "^2.0.4",
     "vm2": "^3.9.19",
+    "vue": "^3.3.4",
     "w3c-xmlserializer": "^4.0.0",
     "wcwidth": "^1.0.1",
     "web-streams-polyfill": "^3.2.1",
@@ -612,7 +616,6 @@
     "yaml": "^1.10.2",
     "yargs-parser": "^20.2.9",
     "yauzl": "^2.10.0",
-    "zwitch": "^1.0.5",
-    "type": "module"
+    "zwitch": "^1.0.5"
   }
 }
